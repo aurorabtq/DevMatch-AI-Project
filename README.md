@@ -19,9 +19,3 @@ DevMatch AI is a platform that connects freelancers with clients using advanced 
 - **UI/UX**: Figma
 - **Testing**: xUnit Test
 
-## Prerequisites
-
-1. [.NET SDK](https://dotnet.microsoft.com/download) (version 7.0 or later)
-2. [Node.js](https://nodejs.org/) (version 16.0 or later)
-3. [SQL Server](https://www.microsoft.com/en-us/sql-server/)
-4. [Git](https://git-scm.com/)
