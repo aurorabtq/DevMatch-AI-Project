@@ -12,11 +12,12 @@ DevMatch AI is a platform that connects freelancers with clients using advanced 
 
 ## Tech Stack
 
-- **Backend**: ASP.NET Core Web API
-- **Frontend**: React.js
-- **Database**: SQL Server
-- **Authentication**: JWT-based authentication
-- **Hosting**: Azure (optional)
+- **Backend**: ASP.NET Core
+- **Frontend**: React.js / MVC with Bootstrap
+- **Database**: PostgreSQL (RDBMS)
+- **Machine Learning**: Python, Jupyter Notebooks
+- **UI/UX**: Figma
+- **Testing**: xUnit Test
 
 ## Prerequisites
 
