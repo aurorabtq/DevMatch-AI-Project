@@ -1,0 +1,73 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+
+
+<div class="body-content clearfix">
+
+    <div class="block-section bg-color4">
+        <div class="container">
+            <div class="text-center logo"> <a href="#"><img src="~/images/logof.svg" alt="" style="width: 300px;"></a></div>
+            <div class="white-space-40"></div>
+
+            <div class="panel panel-md">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-md-12">
+
+                            <!-- form login -->
+                            <form method="post">
+                                <div asp-validation-summary="All" class="text-danger"></div>
+                                <div class="form-group">
+                                    <label asp-for="Input.Email">Email</label>
+                                    <input type="email" asp-for="Input.Email" class="form-control" placeholder="Email adresa juaj">
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Input.Password">Fjalëkalimi</label>
+                                    <input type="password" asp-for="Input.Password" class="form-control" placeholder="Fjalëkalimi juaj">
+                                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+
+                                </div>
+                                <div class="form-group">
+                                    <div class="row">
+
+
+                                        <div class="col-xs-6">
+                                            <div class="checkbox flat-checkbox">
+                                                <label asp-for="Input.RememberMe">
+                                                    <input asp-for="Input.RememberMe" />
+                                                    <span class="fa fa-check"></span>
+
+                                                    @Html.DisplayNameFor(m => m.Input.RememberMe)
+                                                </label>
+                                            </div>
+                                        </div>
+                                        <div class="col-xs-6 text-right">
+                                            <p class="help-block"><a asp-page="./ForgotPassword" data-toggle="modal">Keni harruar fjalëkalimi?</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-group no-margin">
+                                    <button type="submit" class="btn btn-theme btn-lg btn-t-primary btn-block">Kyçu</button>
+                                </div>
+                            </form>
+                            <!-- form login -->
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="white-space-20"></div>
+            <div class="text-center color-white">S'jeni i regjistruar? &nbsp; <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl" class="link-white"><strong>Krijo një llogari</strong></a></div>
+        </div>
+    </div>
+</div>
+
+    @section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+    }

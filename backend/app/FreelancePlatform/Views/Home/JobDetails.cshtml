@@ -1,0 +1,99 @@
+﻿@model FreelancePlatform.ViewModels.JobDetailsViewModel
+
+@using Humanizer
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+@{ ViewData["Title"] = "Job Details";
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+<div class="body-content clearfix">
+
+    <div class="bg-color2">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9">
+
+                    <!-- box item details -->
+                    <div class="block-section box-item-details">
+                        <div class="row">
+                            <div class="col-md-8">
+                                <a href="company_page.html"><img src="~/images/patner/1.png" alt=""></a>
+                            </div>
+                            <div class="col-md-4">
+                                <p class="text-right"><a href="@Model.Job.Website">Go to our website &raquo;</a></p>
+                            </div>
+                        </div>
+
+                        <h2 class="title"><a href="#">@Model.Job.Title</a></h2>
+                        <h3><a href="#">@Model.Job.CompanyName</a></h3>
+
+                        <div class="job-meta">
+                            <ul class="list-inline">
+                                <li><i class="fa fa-clock-o"></i>@Model.Job.CreatedAt.Humanize()</li>
+                                <li><i class="fa fa-map-marker"></i>@Model.Job.Location</li>
+                                <li><i class="fa fa-briefcase"></i>@Model.Job.Type</li>
+                                <li><i class="fa fa-times"></i>@Model.Job.LastDate</li>
+                            </ul>
+                        </div>
+                        <blockquote class="blockquote">
+                            <p>@Model.Job.Description</p>
+                        </blockquote>
+                    </div>
+                </div>
+                <div class="col-md-3">
+
+                    <!-- box affix right -->
+                    <div class="block-section " id="affix-box">
+                        <div class="text-right">
+
+                            @if (SignInManager.IsSignedIn(User))
+                            {
+                                if (Model.IsApplied)
+                                {
+                        <input type="button" class="btn btn-theme btn-t-primary btn-block-xs" value="Aplikuar" />
+                                            <div class="white-space-20"></div> }
+                                                            else
+                                                            {
+                                            <form asp-controller="Job" asp-action="Apply" asp-route-id="@Model.Job.Id" method="post">
+                                                @Html.AntiForgeryToken()
+                                                @*<input type="hidden" name="job" value="1">*@
+                                                <input type="submit" class="btn btn-outline-white-primary"
+                                                       value="Apliko" />
+                                                <div class="white-space-20"></div>
+                                            </form> }
+                                    }
+                                    else
+                                    {
+                        <form asp-controller="Job" asp-action="Apply" asp-route-id="@Model.Job.Id" method="post">
+                            @Html.AntiForgeryToken()
+                            <input type="hidden" name="job" value="{{ job.id }}">
+                            <input type="submit" class="btn btn-outline-white-primary"
+                                   value="Apliko" />
+                            <div class="white-space-20"></div>
+
+                        </form>}
+
+
+
+
+
+
+                            <p><a href="#map-toogle" id="btn-map-toogle" data-toggle="collapse" class="btn btn-theme btn-t-primary btn-block-xs">Lokacioni</a></p>
+                            <p>Ndaje këtë shpallje<span class="space-inline-10"></span>:</p>
+                            <p class="share-btns">
+                                <a href="#" class="btn btn-primary"><i class="fa fa-facebook"></i></a>
+                                <a href="#" class="btn btn-info"><i class="fa fa-twitter"></i></a>
+                                <a href="#" class="btn btn-danger"><i class="fa fa-google-plus"></i></a>
+                                <a href="#" class="btn btn-warning"><i class="fa fa-envelope"></i></a>
+                            </p>
+                        </div>
+                    </div><!-- box affix right -->
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,133 @@
+﻿@model IEnumerable<Job>
+
+
+@{
+    ViewData["Title"] = "All Jobs";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+<div class="body-content clearfix">
+
+    <div class="bg-color2">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9">
+
+
+                   
+                  
+          <form id="job-main-form" method="get" asp-controller="Job" asp-action="Search" class="form-search-home">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>Titulli</label>
+                <input type="text" id="title" name="title"
+                       class="form-control input-lg"
+                       placeholder="Titulli i punës">
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>Përshkrimi</label>
+                <input type="text" id="description" name="description"
+                       class="form-control input-lg"
+                       placeholder="Shkruaj përshkrimin e punës">
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>Aftësi (Skills)</label>
+                <input type="text" id="skills" name="skills"
+                       class="form-control input-lg"
+                       placeholder="P.sh. JavaScript, .NET, SQL">
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>Kohëzgjatja</label>
+                <select id="duration" name="duration" class="form-control input-lg">
+                    <option value="">Zgjidh kohëzgjatjen</option>
+                    <option value="short">Afatshkurtër</option>
+                    <option value="medium">Mesatar</option>
+                    <option value="long">Afatgjatë</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>Eksperienca</label>
+                <select id="experience" name="experience" class="form-control input-lg">
+                    <option value="">Zgjidh nivelin e eksperiencës</option>
+                    <option value="entry">Fillestar</option>
+                    <option value="mid">Mesatar</option>
+                    <option value="senior">Ekspert</option>
+                </select>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>Buxheti</label>
+                <input type="number" id="budget" name="budget"
+                       class="form-control input-lg"
+                       placeholder="Shkruaj buxhetin në EUR">
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-t-primary btn-lg btn-theme btn-pill btn-block">Gjej punë</button>
+    </div>
+</form>
+                    <!-- box listing -->
+                    <div class="block-section-sm box-list-area">
+
+                        <!-- desc top -->
+                        <div class="row hidden-xs">
+                            <div class="col-sm-6  ">
+                                <p><strong class="color-black">Ne kemi gjetur @Model.Count() pune</strong></p>
+                            </div>
+                            <div class="col-sm-6">
+                                <p class="text-right">
+                                     1 to 10 of 578
+                                </p>
+                            </div>
+                        </div><!-- end desc top -->
+
+
+                            @foreach (var job in Model)
+                            {
+                             <div class="box-list">
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-md-1 hidden-sm hidden-xs"><div class="img-item"><img src="./assets/theme/images/company-logo/1.jpg" alt=""></div></div>
+                                    <div class="col-md-11">
+                                        <h3 class="no-margin-top"><a asp-controller="Home" asp-action="JobDetails" asp-route-id="@job.Id">@job.Title <i class="fa fa-link color-white-mute font-1x"></i></a></h3>
+                                        <h5><span class="color-black">@job.CompanyName</span> - <span class="color-white-mute">@job.Location</span></h5>
+                                        <p class="text-truncate ">@job.Description</p>
+                                        <div>
+                                            <span class="color-white-mute">@job.CreatedAt</span> -
+                                            <a href="#need-login" data-toggle="modal" class="btn btn-xs btn-theme btn-default">Ruaj</a> -
+                                            <a href="#modal-email" data-toggle="modal" class="btn btn-theme btn-xs btn-default">Email</a> -
+                                            <a href="#" class="btn btn-theme btn-xs btn-default">me shume ...</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                 </div>
+                            }
+                    </div>
+                                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

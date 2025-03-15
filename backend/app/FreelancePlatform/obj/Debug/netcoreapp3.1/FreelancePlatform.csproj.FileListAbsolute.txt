@@ -1,0 +1,504 @@
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\FreelancePlatform.StaticWebAssets.xml
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\FreelancePlatform.exe
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\FreelancePlatform.deps.json
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\FreelancePlatform.runtimeconfig.json
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\FreelancePlatform.runtimeconfig.dev.json
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\FreelancePlatform.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\FreelancePlatform.pdb
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\FreelancePlatform.Views.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\FreelancePlatform.Views.pdb
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.csprojAssemblyReference.cache
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.AssemblyInfoInputs.cache
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.AssemblyInfo.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.RazorAssemblyInfo.cache
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.RazorAssemblyInfo.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.TagHelpers.input.cache
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.TagHelpers.output.cache
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.RazorCoreGenerate.cache
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Create.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Delete.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Details.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Edit.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Index.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\RoleManager\Index.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\UserRoles\Index.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\UserRoles\Manage.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.RazorTargetAssemblyInfo.cache
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.RazorTargetAssemblyInfo.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.Views.pdb
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.csproj.CopyComplete
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\staticwebassets\FreelancePlatform.StaticWebAssets.Manifest.cache
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\staticwebassets\FreelancePlatform.StaticWebAssets.xml
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.pdb
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.genruntimeconfig.cache
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Job\Index.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Job\Create.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.csproj.CoreCompileInputs.cache
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Home\PostJob.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Applicants.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\ApplicantsByJob.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Home\JobDetails.cshtml.g.cs
+C:\Users\Granit\Desktop\Lab2\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Home\Search.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\appsettings.json
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\FreelancePlatform.StaticWebAssets.xml
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\FreelancePlatform.exe
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\FreelancePlatform.deps.json
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\FreelancePlatform.runtimeconfig.json
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\FreelancePlatform.runtimeconfig.dev.json
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\FreelancePlatform.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\FreelancePlatform.pdb
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\FreelancePlatform.Views.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\FreelancePlatform.Views.pdb
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.AssemblyInfoInputs.cache
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.AssemblyInfo.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.csproj.CoreCompileInputs.cache
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.MvcApplicationPartsAssemblyInfo.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.MvcApplicationPartsAssemblyInfo.cache
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.RazorAssemblyInfo.cache
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.RazorAssemblyInfo.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\staticwebassets\FreelancePlatform.StaticWebAssets.Manifest.cache
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\staticwebassets\FreelancePlatform.StaticWebAssets.xml
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.TagHelpers.input.cache
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.TagHelpers.output.cache
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.RazorCoreGenerate.cache
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Applicants.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\ApplicantsByJob.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Home\JobDetails.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Home\PostJob.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Home\Search.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Job\Create.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Job\Index.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Create.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Delete.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Details.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Edit.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Index.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\RoleManager\Index.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\UserRoles\Index.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\UserRoles\Manage.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.RazorTargetAssemblyInfo.cache
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.RazorTargetAssemblyInfo.cs
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.Views.pdb
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.csproj.CopyComplete
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.dll
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.pdb
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.genruntimeconfig.cache
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\UBT\UBT\Semestri 6\LAB2\Ardit-Jashari,Granit-Zenelaj-Freelancing_Platform\Projekti\Projekti\FreelancePlatform\obj\Debug\netcoreapp3.1\FreelancePlatform.csproj.AssemblyReference.cache

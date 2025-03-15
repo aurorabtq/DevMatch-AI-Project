@@ -1,0 +1,50 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+
+
+
+@if (SignInManager.IsSignedIn(User))
+{
+
+<ul class="nav navbar-nav navbar-right" style="margin: 0px 0px;">
+    <li class="dropdown">
+
+        <a href="#" class="link-profile dropdown-toggle" data-toggle="dropdown">
+            @if (UserManager.GetUserAsync(User).Result.ProfilePicture != null)
+            {
+                <img src="data:image/*;base64,@(Convert.ToBase64String(UserManager.GetUserAsync(User).Result.ProfilePicture))" alt="" class="img-profile">}&nbsp; @UserManager.GetUserName(User) <b class="caret"></b>
+            </a>
+
+        <ul class="dropdown-menu" role="menu">
+            <li><a asp-area="Identity" asp-page="/Account/Manage/Index"> Parametrat </a></li>
+            <li>
+                <a href="#">
+                    <form asp-area="Identity" asp-page="/Account/Logout"
+                          asp-route-returnUrl="@Url.Page("/Index", new { area = "" })" method="post" id="logoutForm">
+                        <button style=" all: unset; color: #d7d7d7; -webkit-text-fill-color: #d7d7d7; cursor: pointer;">Çkyçu </button>
+                    </form>
+                </a>
+            </li> @*Ckycu*@
+            @if (User.IsInRole("Client"))
+            {
+                <li><a asp-controller="Dashboard" asp-action="Index"> Dashboard </a></li>
+            }
+        </ul>
+
+</ul>
+
+}
+
+else{
+
+
+    <ul class="nav navbar-nav navbar-right hidden-sm hidden-xs">
+
+        <li class="link-btn"><a asp-area="Identity" asp-page="/Account/Login"><span class="btn btn-theme btn-pill btn-xs btn-line">Kyçu</span></a></li>
+        <li class="link-btn"><a asp-area="Identity" asp-page="/Account/Register"><span class="btn btn-theme  btn-pill btn-xs btn-line">Regjistrohu</span></a></li>
+    </ul>
+
+
+            }

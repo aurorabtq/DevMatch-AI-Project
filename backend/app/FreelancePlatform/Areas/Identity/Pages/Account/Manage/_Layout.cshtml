@@ -1,0 +1,53 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject UserManager<FreelancePlatform.Models.ApplicationUser> UserManager
+@{ if (ViewData.TryGetValue("ParentLayout", out var parentLayout))
+    {
+        Layout = (string)parentLayout;
+    }
+    else
+    {
+        Layout = "/Areas/Identity/Pages/_Layout.cshtml";
+    } }
+
+<div class="body-content clearfix">
+
+    <div class="bg-color2">
+        <div class="container">
+            <div class="col-md-3 col-sm-3">
+
+                <div class="block-section text-center ">
+
+            @if (UserManager.GetUserAsync(User).Result.ProfilePicture != null)
+            {
+        <img src="data:image/*;base64,@(Convert.ToBase64String(UserManager.GetUserAsync(User).Result.ProfilePicture))" class="img-rounded" alt="" style="width:128px">
+
+            } else
+            {
+                        <img src="~/images/profileimg.svg" class="img-rounded" alt="" style="width:128px">
+
+            }
+
+
+
+
+
+                    <div class="white-space-20"></div>
+                    <h4>@UserManager.GetUserAsync(User).Result.FirstName @UserManager.GetUserAsync(User).Result.LastName</h4>
+                    <a>&#64;@UserManager.GetUserName(User)</a>
+                    <div class="white-space-30"></div>
+
+                    <partial name="_ManageNav" />
+                </div>
+            </div>
+            <div class="col-md-9 col-sm-9">
+                <div class="block-section box-side-account">
+
+                    @RenderBody()
+                </div>
+            </div>
+    </div>
+</div>
+
+@section Scripts {
+    @RenderSection("Scripts", required: false)
+}

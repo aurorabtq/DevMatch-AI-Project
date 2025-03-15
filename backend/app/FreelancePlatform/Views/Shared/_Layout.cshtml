@@ -1,0 +1,161 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using FreelancePlatform.Models
+
+@inject SignInManager<ApplicationUser> SignInManager
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Freelancer</title>
+    <environment include="Development">
+
+        <!--favicon-->
+        <link rel="apple-touch-icon" href="~/images/apple-touch-icon.png">
+        <link rel="shortcut icon" href="~/images/faviconv1.ico" type="image/x-icon">
+
+        <!-- bootstrap -->
+        <link href="~/lib/bootstrap-3.3.2/css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Icons -->
+        <link href="~/lib/font-awesome-4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+        <!-- lightbox -->
+        <link href="~/lib/magnific-popup/magnific-popup.css" rel="stylesheet">
+
+        <!-- Themes styles-->
+        <link href="~/css/theme.css" rel="stylesheet">
+        <!-- Your custom css -->
+        <link href="~/css/theme-custom.css" rel="stylesheet">
+    </environment>
+</head>
+
+
+<body>
+    <!-- wrapper page -->
+    <div class="wrapper">
+        <!-- main-header -->
+        <header class="main-header">
+
+
+            <!-- main navbar -->
+            <nav class="navbar navbar-default main-navbar hidden-sm hidden-xs">
+                <div class="container">
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+                        <ul class="nav navbar-nav">
+                            <li class=""><a asp-controller="Job" asp-action="Index">Gjej punë</a></li>
+                            <li class=""><a href="#">Gjej kandidat</a></li>
+                            <li class=""><a <a asp-controller="Job" asp-action="Create">Publiko shpallje</a></li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Faqet <span class="caret"></span></a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a asp-controller="Home" asp-action="About">Rreth Nesh</a></li>
+                                    <li><a asp-controller="Home" asp-action="Contact">Kontakti</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <partial name="_LoginPartial" />
+
+                    </div>
+                </div>
+            </nav><!-- end main navbar -->
+            <!-- mobile navbar -->
+            <div class="container">
+
+                <nav class="mobile-nav hidden-md hidden-lg">
+
+                    <ul class="nav navbar-nav nav-block-left container">
+                        <li><partial name="_LoginPartial" /></li>
+
+                    </ul>
+
+                    <a href="#" class="btn-nav-toogle first">
+                        <span class="bars"></span>
+                        Menu
+                    </a>
+                    <div class="mobile-nav-block">
+                        <h4>Shfleto</h4>
+                        <a href="#" class="btn-nav-toogle">
+                            <span class="barsclose"></span>
+                            Mbylle
+                        </a>
+
+                        <ul class="nav navbar-nav">
+                            <li class=""><a asp-controller="Job" asp-action="Index">Gjej punë</a></li>
+                            <li class=""><a href="#">Gjej kandidat</a></li>
+                            <li class=""><a asp-controller="Job" asp-action="Create">Publiko shpallje</a></li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Faqet <span class="caret"></span></a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a asp-controller="Home" asp-action="About">Rreth Nesh</a></li>
+                                    <li><a asp-controller="Home" asp-action="Contact">Kontakti</a></li>
+
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+
+                </nav>
+            </div><!-- mobile navbar -->
+        </header>
+
+        <!-- Page Content -->
+            @RenderBody()
+        <!-- Page Content -->
+
+
+    </div><!--end body-content -->
+
+    <footer class="main-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <ul class="list-inline link-footer text-center-xs">
+                        <li><a href="#">Kreu</a></li>
+                        <li><a href="/Views/Job/Index.cshtml">Shpalljet</a></li>
+                        <li><a asp-controller="Home" asp-action="About">Rreth</a></li>
+                        <li><a asp-controller="Home" asp-action="Contact">Kontakti</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 ">
+                    <p class="text-center-xs hidden-lg hidden-md hidden-sm">Stay Connect</p>
+                    <div class="socials text-right text-center-xs">
+                        <a href="#"><i class="fa fa-facebook"></i></a>
+                        <a href="#"><i class="fa fa-twitter"></i></a>
+                        <a href="#"><i class="fa fa-youtube-play"></i></a>
+                        <a href="#"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer><!-- end main-footer -->
+    <!-- /.container -->
+
+
+
+
+    <environment include="Development">
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="~/lib/jquery.js"></script>
+        <script src="~/lib/jquery.easing-1.3.pack.js"></script>
+        <!-- jQuery Bootstrap -->
+        <script src="~/lib/bootstrap-3.3.2/js/bootstrap.min.js"></script>
+        <!-- Lightbox -->
+        <script src="~/lib/magnific-popup/jquery.magnific-popup.min.js"></script>
+        <!-- Theme JS -->
+        <script src="~/js/theme.js"></script>
+        <link href="~/css/theme.css" rel="stylesheet">
+
+        <!-- maps -->
+        <script src="http://maps.googleapis.com/maps/api/js?sensor=false" type="text/javascript"></script>
+        <script src="~/lib/gmap3.min.js"></script>
+        <!-- maps single marker -->
+        <script src="~/js/map-detail.js"></script>
+    </environment>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

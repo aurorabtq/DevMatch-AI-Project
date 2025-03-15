@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+<!-- main-header -->
+<header class="main-header">
+    <div class="hero-header">
+        <div class="inner-hero-header">
+            <div class="container">
+
+                <div class="text-center logo"> <a href="#"><img src="~/images/logo.png" alt="" style="width: 200px;"></a></div>
+                <div class="relative">
+                    <i class="fa fa-globe ic-fade-globe"></i>
+                    <!-- form search -->
+                    <form id="job-main-form" method="get" asp-controller="Home" asp-action="Search" class="form-search-home">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label>Çfarë</label>
+                                    <input type="text" id="profession" name="position"
+                                           class="form-control input-lg"
+                                           placeholder="titulli punës apo fjalë kyçe">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label>Ku</label>
+                                    <input type="text" id="location" name="location"
+                                           class="form-control input-lg"
+                                           placeholder="qytet apo regjion">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-t-primary btn-lg btn-theme btn-pill btn-block">Gjej punë</button>
+                        </div>
+
+                    </form> <!-- end form search -->
+                </div>
+
+            </div>
+
+            </div>
+
+        </div>
+</header><!-- end main-header -->
+<!-- body-content -->
+<div class="body-content clearfix">
+
+    <!-- box simple static -->
+    <div class="block-section bg-color1">
+        <div class="row text-center">
+            <div class="col-md-4">
+                <h3 class="font-2x ">@ViewData["UserCount"]</h3>
+                <h4 class="color-text">Puntorë të regjistruar</h4>
+            </div>
+            <div class="col-md-4">
+                <h3 class="font-2x ">@ViewData["JobCount"]</h3>
+                <h4 class="color-text">Punë të publikuara</h4>
+            </div>
+            <div class="col-md-4">
+                <h3 class="font-2x ">@ViewData["ApplicantCount"]</h3>
+                <h4 class="color-text">Aplikime në punë</h4>
+            </div>
+        </div>
+    </div><!-- end box simple static -->
+
+</div>
+    

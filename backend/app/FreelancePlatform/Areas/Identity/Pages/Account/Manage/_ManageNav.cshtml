@@ -1,0 +1,11 @@
+﻿@using FreelancePlatform.Models;
+@inject SignInManager<ApplicationUser> SignInManager
+@{
+    var hasExternalLogins = (await SignInManager.GetExternalAuthenticationSchemesAsync()).Any();
+}
+<ul class="list-unstyled">
+    <li><a class="nav-link nav-item btn  btn-line soft btn-theme btn-pill btn-block @ManageNavPages.IndexNavClass(ViewContext)" id="profile" asp-page="./Index">Profili</a></li> <div class="white-space-15"></div>
+    <!--<li><a class="nav-link nav-item btn  btn-line soft btn-theme btn-pill btn-block @@ManageNavPages.EmailNavClass(ViewContext)" id="email" asp-page="./Email">Emaili</a></li> <div class="white-space-15"></div>-->
+    <li><a class="nav-link nav-item btn  btn-line soft btn-theme btn-pill btn-block @ManageNavPages.ChangePasswordNavClass(ViewContext)" id="change-password" asp-page="./ChangePassword">Fjalëkalimi</a></li> <div class="white-space-15"></div>
+    <li><a class="nav-link nav-item btn  btn-line soft btn-theme btn-pill btn-block @ManageNavPages.PersonalDataNavClass(ViewContext)" id="personal-data" asp-page="./PersonalData">Të dhënat personale</a></li>
+</ul>
