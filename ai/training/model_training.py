@@ -3,7 +3,8 @@ import sys
  
 # Ensure nltk is installed
 subprocess.check_call([sys.executable, "-m", "pip", "install", "nltk"])
- 
+subprocess.check_call([sys.executable, "-m", "pip", "install", "flask"])
+
 from flask import Flask, request, jsonify
 import pandas as pd
 import numpy as np
@@ -102,7 +103,24 @@ def find_top_matches(client_input, df, top_n=50, scaling_factor=10):
 def process_client_input():
     client_input = request.json
     top_matches = find_top_matches(client_input, df)
-    return jsonify(top_matches.to_dict(orient='records'))
+   
+    # Convert the DataFrame to a list of dictionaries
+    top_matches_list = top_matches.to_dict(orient='records')
+   
+    # Map the DataFrame columns to the model properties
+    response = [
+        {
+            "Title": match["Job Title"],
+            "Description": match["Description"],
+            "Skills": match["EX_level_demand"],
+            "Duration": match["Duration_Weeks"],
+            "StartRate": match["Start_rate"],
+            "Similarity": match["similarity"]
+        }
+        for match in top_matches_list
+    ]
+   
+    return jsonify(response)
  
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5000)

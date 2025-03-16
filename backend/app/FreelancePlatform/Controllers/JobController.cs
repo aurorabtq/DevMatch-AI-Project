@@ -9,6 +9,8 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System.Net.Http.Json;
+using System.Diagnostics;
+using System.Text.Json;
 
 namespace FreelancePlatform.Controllers
 {
@@ -176,9 +178,22 @@ namespace FreelancePlatform.Controllers
 
                     {
 
-                        var result = await response.Content.ReadFromJsonAsync<dynamic>();
+                        // Read the response content as a string
+                        var responseContent = await response.Content.ReadAsStringAsync();
 
-                        return Ok(result);
+                      
+                            // Deserialize the content into a dynamic object if needed
+                            var dynamicResult = JsonSerializer.Deserialize<dynamic>(responseContent);
+
+                            // Deserialize the content into a List<TopMatchViewModel>
+                            var topMatches = JsonSerializer.Deserialize<List<TopMatchViewModel>>(responseContent);
+
+                            // Return the view with topMatches data
+                            return View("TopMatches", topMatches);
+                        
+
+
+
 
                     }
 
@@ -196,6 +211,59 @@ namespace FreelancePlatform.Controllers
 
             return BadRequest(ModelState);
 
+        }
+
+
+     
+        [Route("jobs/start")]
+        public async Task<IActionResult> RunPythonScript()
+        {
+            // Prepare the command to run the Python script
+            var pythonScriptPath = "../../../ai/training/model_training.py";  // Adjust the path to your script
+            var pythonExePath = "python"; // Ensure Python is in your PATH, or use the full path
+
+            // Prepare the arguments (if needed, such as passing input data)
+            string arguments = pythonScriptPath;
+
+            try
+            {
+                // Start the process
+                var processStartInfo = new ProcessStartInfo
+                {
+                    FileName = pythonExePath,
+                    Arguments = arguments,
+                    RedirectStandardOutput = true,
+                    RedirectStandardError = true,
+                    UseShellExecute = false,
+                    CreateNoWindow = true
+                };
+
+                using (var process = Process.Start(processStartInfo))
+                {
+                    // Capture the output and errors
+                    var output = await process.StandardOutput.ReadToEndAsync();
+                    var error = await process.StandardError.ReadToEndAsync();
+
+                    // Wait for the script to finish execution
+                    await process.WaitForExitAsync();
+
+                    if (process.ExitCode == 0)
+                    {
+                        // Return successful response with the script output
+                        return Ok(new { status = "success", output = output });
+                    }
+                    else
+                    {
+                        // Return error response with the script error
+                        return StatusCode(500, new { status = "error", message = error });
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                // Handle any exceptions
+                return StatusCode(500, new { status = "error", message = ex.Message });
+            }
         }
 
     }

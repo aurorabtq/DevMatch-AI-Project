@@ -1,0 +1,29 @@
+﻿@model List<TopMatchViewModel>
+
+<h2>Top Matches</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Skills</th>
+            <th>Duration (weeks)</th>
+            <th>Start Rate</th>
+            <th>Similarity</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var match in Model)
+        {
+            <tr>
+                <td>@match.Title</td>
+                <td>@match.Description</td>
+                <td>@match.Skills</td>
+                <td>@match.Duration</td>
+                <td>@match.StartRate</td>
+                <td>@match.Similarity</td>
+            </tr>
+        }
+    </tbody>
+</table>
