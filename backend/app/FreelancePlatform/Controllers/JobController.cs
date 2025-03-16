@@ -1,13 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
 using System.Threading.Tasks;
 using FreelancePlatform.Data;
-
 using FreelancePlatform.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System.Net.Http.Json;
 
 namespace FreelancePlatform.Controllers
 {
@@ -127,5 +128,81 @@ namespace FreelancePlatform.Controllers
 
             return RedirectToActionPermanent("Index", "Dashboard");
         }
+
+
+        [HttpGet]
+        [Route("jobs/search")]
+
+        public IActionResult Search()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [Route("jobs/search")]
+        public async Task<IActionResult> Search(ClientInputModel model)
+
+        {
+
+            if (ModelState.IsValid)
+
+            {
+
+                var client_input = new
+
+                {
+
+                    title = model.Title,
+
+                    description = model.Description,
+
+                    skills = model.Skills,
+
+                    duration = model.Duration,
+
+                    budget = model.Budget
+
+                };
+
+                // Call the Python script with the client_input data
+
+                using (var httpClient = new HttpClient())
+
+                {
+
+                    var response = await httpClient.PostAsJsonAsync("http://localhost:5000/api/python", client_input);
+
+                    if (response.IsSuccessStatusCode)
+
+                    {
+
+                        var result = await response.Content.ReadFromJsonAsync<dynamic>();
+
+                        return Ok(result);
+
+                    }
+
+                    else
+
+                    {
+
+                        return StatusCode((int)response.StatusCode, response.ReasonPhrase);
+
+                    }
+
+                }
+
+            }
+
+            return BadRequest(ModelState);
+
+        }
+
     }
+
 }
+
+
+
+
+

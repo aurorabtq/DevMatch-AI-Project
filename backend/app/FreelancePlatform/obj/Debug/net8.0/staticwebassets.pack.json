@@ -1,0 +1,705 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\blocks\\account.less",
+      "PackagePath": "staticwebassets\\css\\blocks\\account.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\blocks\\affix.less",
+      "PackagePath": "staticwebassets\\css\\blocks\\affix.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\blocks\\blog.less",
+      "PackagePath": "staticwebassets\\css\\blocks\\blog.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\blocks\\body.less",
+      "PackagePath": "staticwebassets\\css\\blocks\\body.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\blocks\\helper.less",
+      "PackagePath": "staticwebassets\\css\\blocks\\helper.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\blocks\\listing.less",
+      "PackagePath": "staticwebassets\\css\\blocks\\listing.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\blocks\\main-footer.less",
+      "PackagePath": "staticwebassets\\css\\blocks\\main-footer.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\blocks\\main-header.less",
+      "PackagePath": "staticwebassets\\css\\blocks\\main-header.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\blocks\\maps.less",
+      "PackagePath": "staticwebassets\\css\\blocks\\maps.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\blocks\\pricing.less",
+      "PackagePath": "staticwebassets\\css\\blocks\\pricing.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\blocks\\resume.less",
+      "PackagePath": "staticwebassets\\css\\blocks\\resume.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\blocks\\shortcode.less",
+      "PackagePath": "staticwebassets\\css\\blocks\\shortcode.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\blocks\\testimonial.less",
+      "PackagePath": "staticwebassets\\css\\blocks\\testimonial.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\blocks\\typography.less",
+      "PackagePath": "staticwebassets\\css\\blocks\\typography.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\components\\alert.less",
+      "PackagePath": "staticwebassets\\css\\components\\alert.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\components\\btn.less",
+      "PackagePath": "staticwebassets\\css\\components\\btn.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\components\\form.less",
+      "PackagePath": "staticwebassets\\css\\components\\form.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\components\\modal.less",
+      "PackagePath": "staticwebassets\\css\\components\\modal.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\components\\navbar.less",
+      "PackagePath": "staticwebassets\\css\\components\\navbar.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\components\\pagination.less",
+      "PackagePath": "staticwebassets\\css\\components\\pagination.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\components\\panel.less",
+      "PackagePath": "staticwebassets\\css\\components\\panel.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\components\\tabs.less",
+      "PackagePath": "staticwebassets\\css\\components\\tabs.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\includes\\css3.less",
+      "PackagePath": "staticwebassets\\css\\includes\\css3.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\includes\\variable.less",
+      "PackagePath": "staticwebassets\\css\\includes\\variable.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\theme-custom.css",
+      "PackagePath": "staticwebassets\\css\\theme-custom.css"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\css\\theme.css",
+      "PackagePath": "staticwebassets\\css\\theme.css"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\FindJob.jpg",
+      "PackagePath": "staticwebassets\\images\\FindJob.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\World_map_png-7.png",
+      "PackagePath": "staticwebassets\\images\\World_map_png-7.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\banner1.svg",
+      "PackagePath": "staticwebassets\\images\\banner1.svg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\banner2.svg",
+      "PackagePath": "staticwebassets\\images\\banner2.svg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\banner3.svg",
+      "PackagePath": "staticwebassets\\images\\banner3.svg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\cloud-1.png",
+      "PackagePath": "staticwebassets\\images\\cloud-1.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\cloud-2.png",
+      "PackagePath": "staticwebassets\\images\\cloud-2.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\company-logo\\0.jpg",
+      "PackagePath": "staticwebassets\\images\\company-logo\\0.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\company-logo\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\company-logo\\1.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\company-logo\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\company-logo\\2.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\company-logo\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\company-logo\\3.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\company-logo\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\company-logo\\4.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\company-logo\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\company-logo\\5.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\faviconv1.ico",
+      "PackagePath": "staticwebassets\\images\\faviconv1.ico"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\find-joblogo.svg",
+      "PackagePath": "staticwebassets\\images\\find-joblogo.svg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\full-logo.png",
+      "PackagePath": "staticwebassets\\images\\full-logo.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\home-bg.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\home-bg2.jpg",
+      "PackagePath": "staticwebassets\\images\\home-bg2.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\home-bgblur.jpg",
+      "PackagePath": "staticwebassets\\images\\home-bgblur.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\home-bgblur2.jpg",
+      "PackagePath": "staticwebassets\\images\\home-bgblur2.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\logo-basic.png",
+      "PackagePath": "staticwebassets\\images\\logo-basic.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\logof.png",
+      "PackagePath": "staticwebassets\\images\\logof.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\patner\\1.png",
+      "PackagePath": "staticwebassets\\images\\patner\\1.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\patner\\2.png",
+      "PackagePath": "staticwebassets\\images\\patner\\2.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\patner\\3.png",
+      "PackagePath": "staticwebassets\\images\\patner\\3.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\patner\\4.png",
+      "PackagePath": "staticwebassets\\images\\patner\\4.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\patner\\5.png",
+      "PackagePath": "staticwebassets\\images\\patner\\5.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\people\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\people\\1.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\people\\1.png",
+      "PackagePath": "staticwebassets\\images\\people\\1.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\people\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\people\\2.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\people\\2.png",
+      "PackagePath": "staticwebassets\\images\\people\\2.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\people\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\people\\3.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\people\\3.png",
+      "PackagePath": "staticwebassets\\images\\people\\3.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\people\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\people\\4.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\people\\4.png",
+      "PackagePath": "staticwebassets\\images\\people\\4.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\people\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\people\\5.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\people\\5.png",
+      "PackagePath": "staticwebassets\\images\\people\\5.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\people\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\people\\6.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\people\\6.png",
+      "PackagePath": "staticwebassets\\images\\people\\6.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\people\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\people\\7.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\people\\7.png",
+      "PackagePath": "staticwebassets\\images\\people\\7.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\people\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\people\\8.jpg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\people\\8.png",
+      "PackagePath": "staticwebassets\\images\\people\\8.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\people\\9.png",
+      "PackagePath": "staticwebassets\\images\\people\\9.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\pinmarker.png",
+      "PackagePath": "staticwebassets\\images\\pinmarker.png"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\preloader.gif",
+      "PackagePath": "staticwebassets\\images\\preloader.gif"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\images\\profileimg.svg",
+      "PackagePath": "staticwebassets\\images\\profileimg.svg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\js\\map-detail.js",
+      "PackagePath": "staticwebassets\\js\\map-detail.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\js\\site.min.js",
+      "PackagePath": "staticwebassets\\js\\site.min.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap-3.3.2\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-3.3.2\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap-3.3.2\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-3.3.2\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap-3.3.2\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-3.3.2\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap-3.3.2\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-3.3.2\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap-3.3.2\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-3.3.2\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap-3.3.2\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-3.3.2\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap-3.3.2\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-3.3.2\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap-3.3.2\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-3.3.2\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap-3.3.2\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-3.3.2\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap-3.3.2\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-3.3.2\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap-3.3.2\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-3.3.2\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap-3.3.2\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-3.3.2\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap-3.3.2\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-3.3.2\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap-3.3.2\\js\\npm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-3.3.2\\js\\npm.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\.bower.json"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\npm.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\less\\core.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\less\\list.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\less\\path.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\less\\spinning.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\font-awesome-4.2.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.2.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\gmap3.min.js",
+      "PackagePath": "staticwebassets\\lib\\gmap3.min.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\.bower.json"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\jquery-validation\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\.bower.json"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\jquery.easing-1.3.pack.js",
+      "PackagePath": "staticwebassets\\lib\\jquery.easing-1.3.pack.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\jquery\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery\\.bower.json"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\less-1.7.0.min.js",
+      "PackagePath": "staticwebassets\\lib\\less-1.7.0.min.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\magnific-popup\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\lib\\magnific-popup\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\magnific-popup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\lib\\magnific-popup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\DATA\\UBT MSC\\SEMESTRI III\\Seminar dhe Lab\\DevMatch-AI-Project\\backend\\app\\FreelancePlatform\\wwwroot\\lib\\magnific-popup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\lib\\magnific-popup\\magnific-popup.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FreelancePlatform.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FreelancePlatform.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FreelancePlatform.props",
+      "PackagePath": "build\\FreelancePlatform.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FreelancePlatform.props",
+      "PackagePath": "buildMultiTargeting\\FreelancePlatform.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FreelancePlatform.props",
+      "PackagePath": "buildTransitive\\FreelancePlatform.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
