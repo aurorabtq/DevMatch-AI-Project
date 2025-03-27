@@ -1,1 +1,65 @@
+# Build results
+bin/
+obj/
+out/
+[Ll]og/
+*.log
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sdf
+*.cache
+*.dbmdl
+
+# Visual Studio
 .vs/
+.vscode/
+*.code-workspace
+
+
+
+
+
+
+
+# Publish output
+wwwroot/dist/
+wwwroot/lib/
+publish/
+node_modules/
+bower_components/
+
+
+
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Entity Framework
+Migrations/
+
+# Database files
+*.mdf
+*.ldf
+*.ndf
+
+
+
+
+# .NET Core Dependency cache
+.nuget/packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+
+# Copilot
+.vs/**/copilot-chat*/
+.vs/**/CopilotIndices*/
+.vs/**/DesignTimeBuild/
+.vs/**/FileContentIndex/
+.vs/**/v*/  # versioned temp folders
