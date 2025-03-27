@@ -8,6 +8,8 @@ using Microsoft.Extensions.Logging;
 using System;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
+using Rotativa.AspNetCore;
+using FreelancePlatform.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,7 +22,7 @@ builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
     .AddDefaultTokenProviders();
 
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddScoped<IEmailService, EmailService>();
 var app = builder.Build();
 
 // Apply pending migrations and seed data
@@ -52,7 +54,7 @@ if (!app.Environment.IsDevelopment())
     app.UseExceptionHandler("/Home/Error");
     app.UseHsts();
 }
-
+app.UseRotativa();
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();

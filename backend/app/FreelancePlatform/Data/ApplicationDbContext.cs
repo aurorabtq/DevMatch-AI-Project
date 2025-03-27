@@ -60,9 +60,12 @@ namespace FreelancePlatform.Data
             {
                 entity.ToTable("UserTokens");
             });
+
+
         }
-        public DbSet<FreelancePlatform.Models.Project> Project { get; set; }
-        public DbSet<FreelancePlatform.Models.Job> Jobs { get; set; }
-        public DbSet<FreelancePlatform.Models.Applicant> Applicants { get; set; }
+        public DbSet<Project> Project { get; set; }
+        public DbSet<Job> Jobs { get; set; }
+        public DbSet<Applicant> Applicants { get; set; }
+        public DbSet<Contract> Contracts { get; set; }
     }
 }

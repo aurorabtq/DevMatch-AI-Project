@@ -1,0 +1,33 @@
+﻿@model Contract
+
+@{
+    ViewData["Title"] = "Contract Details";
+}
+
+<h2>Contract Details</h2>
+
+<div class="card p-4 shadow-sm">
+    <p><strong>Job:</strong> @Model.Job.Title</p>
+    <p><strong>Client:</strong> @Model.Client.FirstName  @Model.Client.LastName</p>
+    <p><strong>Freelancer:</strong> @Model.Freelancer.FirstName  @Model.Freelancer.LastName</p>
+    <p><strong>Created At:</strong> @Model.CreatedAt.ToLocalTime().ToString("f")</p>
+    <p><strong>Status:</strong> @Model.Status</p>
+
+    <hr />
+    <h4>Terms</h4>
+    <p>@Html.Raw(Model.Terms.Replace("\n", "<br/>"))</p>
+</div>
+@if (Model.SignedAt == null)
+{
+    <form asp-action="SignContract" asp-route-id="@Model.Id" method="post">
+        <button type="submit" class="btn btn-success mt-3">Sign Contract</button>
+    </form>
+}
+else
+{
+    <p class="text-success mt-3"><strong>Signed At:</strong> @Model.SignedAt.Value.ToLocalTime().ToString("f")</p>
+}
+<a asp-action="ExportPdf" asp-route-id="@Model.Id" class="btn btn-outline-primary mt-3">
+    Download as PDF
+</a>
+<a asp-controller="Job" asp-action="Index" class="btn btn-secondary mt-3">Back to Jobs</a>

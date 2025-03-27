@@ -1,0 +1,30 @@
+﻿@model Contract
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Contract PDF</title>
+    <style>
+        body {
+            font-family: Arial;
+            font-size: 14px;
+        }
+
+        h2 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h2>Freelance Contract Agreement</h2>
+    <p><strong>Job:</strong> @Model.Job.Title</p>
+    <p><strong>Client:</strong> @Model.Client.FirstName @Model.Client.LastName </p>
+    <p><strong>Freelancer:</strong> @Model.Freelancer.FirstName @Model.Freelancer.FirstName</p>
+    <p><strong>Date:</strong> @Model.CreatedAt.ToLocalTime().ToString("D")</p>
+
+    <hr />
+    <h4>Terms and Agreement</h4>
+    <p>@Html.Raw(Model.Terms.Replace("\n", "<br/>"))</p>
+</body>
+</html>
