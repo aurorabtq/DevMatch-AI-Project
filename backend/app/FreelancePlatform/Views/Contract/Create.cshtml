@@ -1,0 +1,30 @@
+﻿@using FreelancePlatform.ViewModels
+@model ContractViewModel
+
+@{
+    ViewData["Title"] = "Create Contract";
+}
+
+<h2>Create Contract</h2>
+
+<form asp-action="Create" method="post">
+    <input type="hidden" asp-for="JobId" />
+
+    <div class="form-group">
+        <label>Client</label>
+        <input type="text" class="form-control" value="@Model.ClientName" disabled />
+    </div>
+
+    <div class="form-group">
+        <label>Freelancer</label>
+        <input type="text" class="form-control" value="@Model.FreelancerName" disabled />
+        <input type="hidden" name="FreelancerName" value="@Model.FreelancerName" />      
+    </div>
+
+    <div class="form-group">
+        <label for="Terms">Contract Terms</label>
+        <textarea asp-for="Terms" class="form-control" rows="6"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Generate Contract</button>
+</form>
