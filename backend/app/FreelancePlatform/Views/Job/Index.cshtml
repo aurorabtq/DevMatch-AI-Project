@@ -17,8 +17,8 @@
                 <div class="col-md-9">
 
 
-                   
-                  
+
+
           <form id="job-main-form" method="get" asp-controller="Job" asp-action="Search" class="form-search-home">
     <div class="row">
         <div class="col-md-6">
@@ -103,27 +103,27 @@
                         </div><!-- end desc top -->
 
 
-                            @foreach (var job in Model)
-                            {
-                             <div class="box-list">
-                            <div class="item">
-                                <div class="row">
-                                    <div class="col-md-1 hidden-sm hidden-xs"><div class="img-item"><img src="./assets/theme/images/company-logo/1.jpg" alt=""></div></div>
-                                    <div class="col-md-11">
-                                        <h3 class="no-margin-top"><a asp-controller="Home" asp-action="JobDetails" asp-route-id="@job.Id">@job.Title <i class="fa fa-link color-white-mute font-1x"></i></a></h3>
-                                        <h5><span class="color-black">@job.CompanyName</span> - <span class="color-white-mute">@job.Location</span></h5>
-                                        <p class="text-truncate ">@job.Description</p>
-                                        <div>
-                                            <span class="color-white-mute">@job.CreatedAt</span> -
-                                            <a href="#need-login" data-toggle="modal" class="btn btn-xs btn-theme btn-default">Ruaj</a> -
-                                            <a href="#modal-email" data-toggle="modal" class="btn btn-theme btn-xs btn-default">Email</a> -
-                                            <a href="#" class="btn btn-theme btn-xs btn-default">me shume ...</a>
+                        @foreach (var job in Model)
+                        {
+                                 <div class="box-list">
+                                <div class="item">
+                                    <div class="row">
+                                        <div class="col-md-1 hidden-sm hidden-xs"><div class="img-item"><img src="~/images/company-logo/1.jpg" alt=""></div></div>
+                                        <div class="col-md-11">
+                                            <h3 class="no-margin-top"><a asp-controller="Home" asp-action="JobDetails" asp-route-id="@job.Id">@job.Title <i class="fa fa-link color-white-mute font-1x"></i></a></h3>
+                                            <h5><span class="color-black">@job.CompanyName</span> - <span class="color-white-mute">@job.Location</span></h5>
+                                            <p class="text-truncate ">@job.Description</p>
+                                            <div>
+                                                <span class="color-white-mute">@job.CreatedAt</span> -
+                                                <a href="#need-login" data-toggle="modal" class="btn btn-xs btn-theme btn-default">Ruaj</a> -
+                                                <a href="#modal-email" data-toggle="modal" class="btn btn-theme btn-xs btn-default">Email</a> -
+                                                <a href="#" class="btn btn-theme btn-xs btn-default">me shume ...</a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                                 </div>
-                            }
+                                     </div>
+                        }
                     </div>
                                 </div>
             </div>

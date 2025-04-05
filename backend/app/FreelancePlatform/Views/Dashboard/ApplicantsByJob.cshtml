@@ -2,49 +2,75 @@
 @model FreelancePlatform.ViewModels.JobApplicantsViewModel
 
 @{
-    ViewBag.Title = "title";
+    ViewBag.Title = "Aplikuesit për " + Model.Job.Title;
     Layout = "_Layout";
 }
 
-<section class="bg-light-gray">
+<section class="bg-light-gray py-5">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-8 mx-auto">
+        <div class="row mb-4">
+            <div class="col-lg-8 mx-auto text-center">
                 <h1 class="heading">Aplikuesit për <span class="accent">@Model.Job.Title</span> pozitën</h1>
             </div>
         </div>
-    </div>
-</section>
-<section>
-    <div class="container">
+
         <div class="row">
             @if (Model.Applicants.Any())
             {
                 foreach (var applicant in Model.Applicants)
                 {
-                    <div class="col-lg-6">
-                        <div class="box applicant">
-                            <h4>@applicant.User.FirstName @applicant.User.LastName</h4>
-                            <a href="#" data-toggle="modal" data-target="#contact-modal"
-                               class="btn btn-outline-white-secondary btn-sm">
-                                <i class="fa fa-envelope"></i>Contact
-                            </a>
-                            <p>
-                                <span class="badge badge-info">Applied @applicant.CreatedAt.Humanize()</span>
-                            </p>
-                            <div class="d-flex justify-content-between">
-                                <p class="intro"></p>
-                                <div class="image">
-                                    <img src="~/img/avatar.png" alt=""
-                                         class="img-fluid rounded-circle">
+                    var contract = Model.Contracts.FirstOrDefault(c => c.FreelancerId == applicant.User.Id);
+
+                            <div class="col-lg-6 mb-4">
+                                <div class="box applicant h-100 shadow-sm p-4">
+                                    <div class="d-flex justify-content-between align-items-center mb-2">
+                                        <h4 class="mb-0">@applicant.User.FirstName @applicant.User.LastName</h4>
+                                        <div class="image">
+                                            <img src="~/img/avatar.png" alt="Avatar"
+                                                 class="img-fluid rounded-circle" style="height: 50px;">
+                                        </div>
+                                    </div>
+
+                                    <p class="mb-2">
+                                        <span class="badge badge-info">Aplikuar @applicant.CreatedAt.Humanize()</span>
+                                    </p>
+
+                                    <div class="d-flex gap-2">
+                                        <a href="#" data-toggle="modal" data-target="#contact-modal"
+                                           class="btn btn-outline-secondary btn-sm">
+                                            <i class="fa fa-envelope"></i> Kontakt
+                                        </a>
+
+                                @if (contract != null)
+                                {
+                                                <a asp-controller="Contract"
+                                                   asp-action="Details"
+                                                   asp-route-id="@contract.Id"
+                                                   class="btn btn-outline-info btn-sm">
+                                                    <i class="fa fa-file-contract"></i> Shiko Kontratën
+                                                </a>
+                                }
+                                else
+                                {
+                                                <a asp-controller="Contract"
+                                                   asp-action="Create"
+                                                   asp-route-jobId="@Model.Job.Id"
+                                                   asp-route-freelancerId="@applicant.User.Id"
+                                                   class="btn btn-outline-success btn-sm">
+                                                    <i class="fa fa-file-contract"></i> Krijo Kontratë
+                                                </a>
+                                }
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
                 }
             }
-            
-
+            else
+            {
+                    <div class="col-12 text-center">
+                        <p class="text-muted">Asnjë aplikant nuk ka aplikuar për këtë pozitë ende.</p>
+                    </div>
+            }
         </div>
     </div>
 </section>

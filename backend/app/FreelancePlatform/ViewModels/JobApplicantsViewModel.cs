@@ -11,5 +11,6 @@ namespace FreelancePlatform.ViewModels
         public Job Job { get; set; }
 
         public List<Applicant> Applicants { get; set; }
+        public ICollection<Contract> Contracts { get; set; }
     }
 }

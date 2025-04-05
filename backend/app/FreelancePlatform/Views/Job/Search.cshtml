@@ -4,8 +4,12 @@
     ViewData["Title"] = "Submit Client Input";
 }
 
-<h1>@ViewData["Title"]</h1>
 
+<div class="container">
+    <div class="row">
+    <div class="col-9">
+
+        <h1>@ViewData["Title"]</h1>
 <form asp-action="Search"  method="post" id="clientInputForm">
     <div class="form-group">
         <label for="Title">Title</label>
@@ -34,7 +38,10 @@
 
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>
-
+</br>
+ </div>
+ </div>
+ </div>
 @section Scripts {
     <script>
     
