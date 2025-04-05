@@ -30,5 +30,6 @@ namespace FreelancePlatform.Models
         public bool Filled { get; set; } = false;
         public ApplicationUser User { get; set; }
         public List<Applicant> Applicants { get; set; }
+        public ICollection<Contract> Contracts { get; set; } = new List<Contract>();
     }
 }

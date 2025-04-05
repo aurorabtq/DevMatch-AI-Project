@@ -67,8 +67,42 @@ namespace FreelancePlatform.Controllers
         }
 
         [HttpPost]
+        [Route("jobs/create")]
         [Authorize(Roles = "Freelancer")]
         public async Task<IActionResult> Apply(int id)
+        {
+            var job = _context.Jobs.SingleOrDefault(x => x.Id == id);
+            var user = await _userManager.GetUserAsync(HttpContext.User);
+            if (user == null)
+            {
+                return RedirectToActionPermanent("Login", "Account");
+            }
+            else
+            {
+                if (!User.IsInRole("Freelancer"))
+                {
+                    TempData["message"] = "Ju s'mund ta kryeni këtë veprim";
+                    return RedirectToActionPermanent("JobDetails", "Home", new { id });
+                }
+            }
+            var apply = new Applicant
+            {
+                User = user,
+                Job = job,
+                CreatedAt = DateTime.Now
+            };
+
+            _context.Applicants.Add(apply);
+
+            await _context.SaveChangesAsync();
+
+            return RedirectToActionPermanent("JobDetails", "Home", new { id });
+        }
+
+        [HttpPost]
+        [Route("jobs/createfromai")]
+        [Authorize(Roles = "Freelancer")]
+        public async Task<IActionResult> ApplyFromAi(int id)
         {
             var job = _context.Jobs.SingleOrDefault(x => x.Id == id);
             var user = await _userManager.GetUserAsync(HttpContext.User);

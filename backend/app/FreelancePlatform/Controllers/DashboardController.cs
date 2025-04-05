@@ -50,15 +50,20 @@ namespace FreelancePlatform.Controllers
         public async Task<IActionResult> ApplicantsByJob(int id)
         {
             var user = await _userManager.GetUserAsync(HttpContext.User);
-            var job = _context.Jobs
-                .Include(x => x.Applicants)
-                    .ThenInclude(x => x.User)
-                .SingleOrDefault(x => x.Id == id);
-            //            _logger.LogInformation(job.Title);
+            var job = await _context.Jobs
+        .Include(j => j.Applicants)
+            .ThenInclude(a => a.User)
+        .Include(j => j.Contracts)
+        .SingleOrDefaultAsync(j => j.Id == id);
+
+            if (job == null)
+                return NotFound();
+
             var model = new JobApplicantsViewModel
             {
                 Job = job,
-                Applicants = job.Applicants
+                Applicants = job.Applicants,
+                Contracts = job.Contracts
             };
 
             return View(model);

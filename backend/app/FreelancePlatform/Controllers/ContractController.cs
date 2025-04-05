@@ -36,6 +36,7 @@ namespace FreelancePlatform.Controllers
             var viewModel = new ContractViewModel
             {
                 JobId = jobId,
+                FreelancerId= freelancerId,
                 ClientName = job.User.FirstName+" "+ job.User.LastName,
                 FreelancerName = freelancer.FirstName+ " "+ freelancer.LastName,
                 Terms = $"This contract is between {job.User.FirstName + " " + job.User.LastName} and {freelancer.FirstName + " " + freelancer.LastName} for the job '{job.Title}'."
@@ -53,7 +54,7 @@ namespace FreelancePlatform.Controllers
             {
                 JobId = model.JobId,
                 ClientId = client.Id,
-                FreelancerId = model.FreelancerName, 
+                FreelancerId = model.FreelancerId, 
                 Terms = model.Terms,
                 CreatedAt = DateTime.UtcNow,
                 Status = "Draft"
@@ -121,8 +122,8 @@ namespace FreelancePlatform.Controllers
             var message = $"Dear {contract.Freelancer.FirstName},<br/>The contract for job <strong>{contract.Job.Title}</strong> has been signed.<br/><br/>Best regards,<br/>Freelance Platform";
 
           
-            await _emailService.SendEmailWithAttachmentAsync(contract.Client.Email, subject, message, pdfBytes, $"Contract_{contract.Id}.pdf");
-            await _emailService.SendEmailWithAttachmentAsync(contract.Freelancer.Email, subject, message, pdfBytes, $"Contract_{contract.Id}.pdf");
+           // await _emailService.SendEmailWithAttachmentAsync(contract.Client.Email, subject, message, pdfBytes, $"Contract_{contract.Id}.pdf");
+           // await _emailService.SendEmailWithAttachmentAsync(contract.Freelancer.Email, subject, message, pdfBytes, $"Contract_{contract.Id}.pdf");
 
             return RedirectToAction("Details", new { id });
         }
